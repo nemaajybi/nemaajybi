@@ -1,6 +1,6 @@
 ### Hi there 👋
  😄 my name is Nema
-![grafik](https://github.com/nemaajybi/nemaajybi/assets/127358180/20943b4a-081c-4c98-b664-e9c9f14c24d3)
+![grafik](https://github.com/nemaajybi/nemaajybi/assets/127358180/55c583b9-538c-4237-8d8b-3bb6b10e9187)
 
 - 🔭 I’m currently working python Developer..
 -Skills: 
